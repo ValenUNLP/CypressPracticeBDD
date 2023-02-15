@@ -1,0 +1,22 @@
+{
+  "name": "cypresspractiquebdd",
+  "version": "1.0.0",
+  "description": "Cypress Practique BDD Assertions",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValenUNLP/CypressPractiqueBDD.git"
+  },
+  "author": "ValenUNLP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValenUNLP/CypressPractiqueBDD/issues"
+  },
+  "homepage": "https://github.com/ValenUNLP/CypressPractiqueBDD#readme",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
