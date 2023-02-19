@@ -1,0 +1,18 @@
+    {
+        "first":{
+            "Username": "Valentin",
+            "Password": "Banegas",
+            "Comment": "CYPRESS PRACTIQUE",
+            "Filename": "cypress.txt",
+            "Checkbox": 1,
+            "Radio": 2,
+            "MultipleSelect": 3,
+            "Dropdown":4
+        },
+        "default":{
+            "Checkbox": 3,
+            "Radio": 2,
+            "MultipleSelect": 4,
+            "Dropdown":3
+        }
+    }
