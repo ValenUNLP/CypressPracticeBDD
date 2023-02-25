@@ -1,0 +1,94 @@
+{
+    "plus": [
+        {
+            "name": "Deberia dar como resultado: 10(positivo + positivo = positivo)",
+            "number1": 9,
+            "number2": 1,
+            "answer": 10
+        },
+        {
+            "name": "Deberia dar como resultado: -1(positivo + negativo = negativo)",
+            "number1": 9,
+            "number2": -10,
+            "answer": -1
+        },
+        {
+            "name": "Deberia dar como resultado: 3(positivo + negativo = positivo)",
+            "number1": 9,
+            "number2": -6,
+            "answer": 3
+        },
+        {
+            "name": "Deberia dar como resultado: -18(negativo + negativo = negativo)",
+            "number1": -9,
+            "number2": -9,
+            "answer": -18
+        }
+    ],
+    "minus": [
+        {
+            "name": "Deberia dar como resultado: 3(positivo - positivo = positivo)",
+            "number1": 9,
+            "number2": 6,
+            "answer": 3
+        },
+        {
+            "name": "Deberia dar como resultado: -3(positivo - positivo = negativo)",
+            "number1": 9,
+            "number2": 12,
+            "answer": -3
+        },
+        {
+            "name": "Deberia dar como resultado: 12(positivo - negativo = positivo)",
+            "number1": 9,
+            "number2": -3,
+            "answer": 12
+        },
+        {
+            "name": "Deberia dar como resultado: -3(negativo - negativo = negativo)",
+            "number1": -9,
+            "number2": -6,
+            "answer": -3
+        }
+    ],
+    "times":[
+        {
+            "name": "Deberia dar como resultado: 10(positivo * positivo = positivo)",
+            "number1": 2,
+            "number2": 5,
+            "answer": 10
+        },
+        {
+            "name": "Deberia dar como resultado: 10(negativo * negativo = positivo)",
+            "number1": -2,
+            "number2": -5,
+            "answer": 10
+        },
+        {
+            "name": "Deberia dar como resultado: -10(negativo * positivo = negativo)",
+            "number1": -2,
+            "number2": 5,
+            "answer": -10
+        }
+    ],
+    "divide":[
+        {
+            "name": "Deberia dar como resultado: 1(positivo / positivo = positivo)",
+            "number1": 10,
+            "number2": 10,
+            "answer": 1
+        },
+        {
+            "name": "Deberia dar como resultado: 2(negativo / negativo = positivo)",
+            "number1": -10,
+            "number2": -5,
+            "answer": 2
+        },
+        {
+            "name": "Deberia dar como resultado: -2(negativo / positivo = negativo)",
+            "number1": -10,
+            "number2": 5,
+            "answer": -2
+        }
+    ]
+}
