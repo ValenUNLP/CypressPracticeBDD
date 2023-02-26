@@ -1,0 +1,54 @@
+{
+    "error":[
+        {
+            "name": "Deberia reportar que no es un triangulo(0 como lados)",
+            "side1": 0,
+            "side2": 0,
+            "side3": 0,
+            "answer": "Error"
+        },
+        {
+            "name": "Deberia reportar que no es un triangulo(3er lado igual que la suma de los otros 2)",
+            "side1": 10,
+            "side2": 10,
+            "side3": 20,
+            "answer": "Error"
+        },
+        {
+            "name": "Deberia reportar que no es un triangulo(3er lado mayor que la suma de los otros 2)",
+            "side1": 10,
+            "side2": 10,
+            "side3": 21,
+            "answer": "Error"
+        }
+    ],
+    "Scalene":[
+        {
+            "name": "Deberia reportar que es un escaleno",
+            "side1": 3,
+            "side2": 2,
+            "side3": 4,
+            "answer": "Scalene"
+        }
+    ],
+    "Isosceles":[
+        {
+            "name": "Deberia reportar que es un isosceles",
+            "side1": 4,
+            "side2": 2,
+            "side3": 4,
+            "answer": "Isosceles"
+        }
+    ],
+    "Equilateral":[
+        {
+            "name": "Deberia reportar que es un equilatero",
+            "side1": 4,
+            "side2": 4,
+            "side3": 4,
+            "answer": "Equilateral"
+        }
+    ]
+
+}
+
