@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Deberia dibujar un cuadrado verde de 10 de tamaño en la coordenada: (30, 60)",
+        "x": 30,
+        "y": 60,
+        "size": 10,
+        "colour": "Green",
+        "shape": "Square"
+    },
+    {
+        "name": "Deberia dibujar un cuadrado negro de 30 de tamaño en la coordenada: (150, 150)",
+        "x": 150,
+        "y": 150,
+        "size": 30,
+        "colour": "Black",
+        "shape": "Square"
+    },
+    {
+        "name": "Deberia dibujar un cuadrado rojo de 15 de tamaño en la coordenada: (10, 10)",
+        "x": 10,
+        "y": 10,
+        "size": 15,
+        "colour": "Red",
+        "shape": "Square"
+    },
+    {
+        "name": "Deberia dibujar un circulo azul de 90 de tamaño en la coordenada: (80, 110)",
+        "x": 80,
+        "y": 110,
+        "size": 90,
+        "colour": "Blue",
+        "shape": "Circle"
+    },
+    {
+        "name": "Deberia dibujar un circulo gris de 5 de tamaño en la coordenada: (300, 5)",
+        "x": 300,
+        "y": 5,
+        "size": 5,
+        "colour": "Grey",
+        "shape": "Circle"
+    }
+]

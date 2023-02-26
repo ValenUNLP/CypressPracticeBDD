@@ -20,6 +20,7 @@
     "cypress": "^12.6.0",
     "cypress-drag-drop": "^1.1.1",
     "cypress-real-events": "^1.7.6",
+    "loc": "^0.6.1",
     "sinon-chai": "^3.7.0"
   },
   "devDependencies": {
